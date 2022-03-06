@@ -1,0 +1,77 @@
+.navbar{
+    background-color: #d3d3d3;
+    font-family: "Poppins", sans-serif;
+    padding: 2rem 4rem;
+    &_heading{
+        color: #00ad00;
+        font-weight: bold;
+        font-family: "Acme", sans-serif;
+        font-size: 1.5rem;
+    }
+    &_options{
+        margin-top: 3rem;
+        color: rgb(92, 92, 92);
+        cursor: pointer;
+        h4{
+            display: flex;
+            align-items: center;
+            font-size: 0.8rem;
+            
+            span{
+                margin-top: 0.2rem;
+                margin-right: 1.5rem;
+                font-size: 1rem;
+            }
+        }
+    }
+    &_library{
+        margin-top: 3rem;
+        color: rgb(92, 92, 92);
+        &_heading{
+            font-size: 0.7rem;
+            font-weight: bold;
+        }
+        h4{
+            display: flex;
+            align-items: center;
+            font-size: 0.8rem;
+            cursor: pointer;
+            span{
+                margin-top: 0.2rem;
+                margin-right: 1.5rem;
+                font-size: 1rem;
+                cursor: pointer;
+            }
+        }
+    }
+    &_playlist{
+        margin-top: 3rem;
+        color: rgb(92, 92, 92);
+        &_heading{
+            font-size: 0.7rem;
+            font-weight: bold;
+        }
+        h4{
+            display: flex;
+            align-items: center;
+            font-size: 0.8rem;
+            cursor: pointer;
+        }
+    }
+    &_addition{
+        border: 3px solid #00ad00;
+        margin-top: 3rem;
+        border-radius: 0.4rem;
+        color: #00ad00;
+        cursor: pointer;
+        h4{
+            margin: 0;
+            padding: 0.4rem;
+            font-size: 0.9rem;
+            span{
+                margin-right: 0.8rem;
+                font-size: 1.1rem;
+            }
+        }
+    }
+}
