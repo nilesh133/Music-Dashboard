@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/Music-Dashboard/static/css/main.4b33b0ca.css",
+    "main.js": "/Music-Dashboard/static/js/main.5a777b8d.js",
+    "static/media/Image3.png": "/Music-Dashboard/static/media/Image3.5eca04bdb6bfe4151ae1.png",
+    "static/media/PlayerImg.png": "/Music-Dashboard/static/media/PlayerImg.833cbf8afcdb2cbb9926.png",
+    "static/media/Featured3.png": "/Music-Dashboard/static/media/Featured3.5dc13feaa86ddab7a2b9.png",
+    "static/media/Featured4.png": "/Music-Dashboard/static/media/Featured4.ed4707dfc1ebfcb730b2.png",
+    "static/media/Featured2.png": "/Music-Dashboard/static/media/Featured2.9cec1c6667b89c70094a.png",
+    "static/media/Featured7.png": "/Music-Dashboard/static/media/Featured7.42a9b3386bdf8b90a916.png",
+    "static/media/Image1.png": "/Music-Dashboard/static/media/Image1.8c6bcb4bf8ff1eb8568f.png",
+    "static/media/Image2.png": "/Music-Dashboard/static/media/Image2.d7a721d6b038902125c9.png",
+    "static/media/Featured1.png": "/Music-Dashboard/static/media/Featured1.6c7a8143c633e86e2053.png",
+    "static/media/Featured6.png": "/Music-Dashboard/static/media/Featured6.c49cbde299ec577a1463.png",
+    "static/media/Featured5.png": "/Music-Dashboard/static/media/Featured5.7c871f9c8ea1ef3d61fe.png",
+    "index.html": "/Music-Dashboard/index.html",
+    "main.4b33b0ca.css.map": "/Music-Dashboard/static/css/main.4b33b0ca.css.map",
+    "main.5a777b8d.js.map": "/Music-Dashboard/static/js/main.5a777b8d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4b33b0ca.css",
+    "static/js/main.5a777b8d.js"
+  ]
+}
